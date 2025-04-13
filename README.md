@@ -4,7 +4,7 @@ An AI-powered calling agent for automatic conversation with users in natural lan
 )
 
 ## There are two versions of our conversational phone agent:
-### 1. [Standalone Version]([standalone/README.md](https://github.com/chaitanyagarg50/ai-calling-agent/blob/main/ai-calling-agent/phone_agent/README.md))
+### 1. [Standalone Version]((https://github.com/chaitanyagarg50/ai-calling-agent/blob/main/ai-calling-agent/phone_agent/README.md))
 ### 2. [Phone Agent Version](phone_agent/README.md)
 
 ---  
