@@ -8,10 +8,6 @@
   [![Google AI](https://img.shields.io/badge/Google%20AI-Gemini%20Pro-orange.svg)](https://ai.google.dev/)
 </div>
 
-## Demo Video
-
-[![Watch the video](yt.jpg)](https://youtu.be/eioGKkRR43g?si=-fahyHZuT2fT08M0)
-
 ---
 
 ## 📑 Table of Contents
@@ -85,7 +81,7 @@
    ```
 3. Clone the repository using Git:
    ```bash
-   git clone https://github.com/arunangshu/ai-calling-agent.git
+   git clone https://github.com/chaitanyagarg50/ai-calling-agent.git
    ```
 
 4. Navigate into the cloned project folder:
