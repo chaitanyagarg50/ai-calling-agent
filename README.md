@@ -1,6 +1,7 @@
 # 📲 AI Calling Agent
 An AI-powered calling agent for automatic conversation with users in natural language!
-![](splash.jpg)
+![](![image](https://github.com/user-attachments/assets/ac421ef1-1aee-4a7b-b56d-3ec0d6f4fa6a)
+)
 
 ## There are two versions of our conversational phone agent:
 ### 1. [Standalone Version](standalone/README.md)
