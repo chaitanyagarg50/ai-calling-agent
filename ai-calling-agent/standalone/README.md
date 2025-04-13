@@ -98,7 +98,7 @@ Ensure you have the following installed on your system:
 
 ### 2. Clone the Repository
 ```bash
-gh repo clone arunangshu/ai-calling-agent
+gh repo clone chaitanyagarg50/ai-calling-agent
 cd ai-calling-agent
 cd standalone
 ```
