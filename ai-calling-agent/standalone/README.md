@@ -15,18 +15,12 @@ This code integrates speech-to-text, text-to-speech, and customer service automa
 ---
 
 ## 📑 Table of Contents
-- [Demo Video](#-demo-video)
 - [Features](#-features)
 - [Overview](#-overview)
 - [How to Use](#-how-to-use)
 - [Updating the Database and Initial Prompt](#️-updating-the-database-and-initial-prompt)
 - [Troubleshooting](#️-troubleshooting)
 - [Acknowledgements](#-acknowledgments)
-
----
-
-## 🎥 Demo Video
-[![Encode 2025 Calling Agent Demo | Standalone Version | KGPian Analysts](yt.jpg)](https://www.youtube.com/watch?v=HA0ScCus5yU)
 
 ---
 
