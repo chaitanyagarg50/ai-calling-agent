@@ -1,0 +1,7 @@
+flask
+twilio
+python-dotenv
+pandas
+pydub
+deepgram-sdk
+google-generativeai
